@@ -47,7 +47,7 @@ This query reveals the skills required for the top 10 highest-paying data analys
 
 - **Multiple roles share overlapping skill sets,** suggesting these technologies are foundational for top-tier analyst jobs.
 
-![Alt Text](assets\output.png)
+![Alt Text](assets/output.png)
 
 ### 3. Most In-Demand Skills
 This query surfaces the top 5 skills most frequently required in data analyst job postings—critical knowledge for entering the job market.
