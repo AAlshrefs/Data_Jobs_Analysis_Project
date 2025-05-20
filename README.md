@@ -28,7 +28,7 @@ Each query for this project aimed at investigating specific aspects of the data 
 ### 1. Top Paying Data Analyst Jobs
 To identify the highest-paying roles, I filtered data analyst positions by average yearly salary and location, focusing on remote jobs. This query highlights the high paying opportunities in the field.
 
-![Alt Text](project_sql_queries\assets\23.png)
+![Alt Text](assets\23.png)
 
 ***Here’s the breakdown of the top data analyst jobs in 2024:***
 
@@ -47,7 +47,7 @@ This query reveals the skills required for the top 10 highest-paying data analys
 
 - **Multiple roles share overlapping skill sets,** suggesting these technologies are foundational for top-tier analyst jobs.
 
-![Alt Text](project_sql_queries\assets\output.png)
+![Alt Text](assets\output.png)
 
 ### 3. Most In-Demand Skills
 This query surfaces the top 5 skills most frequently required in data analyst job postings—critical knowledge for entering the job market.
